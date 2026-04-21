@@ -10,8 +10,8 @@ You will need Python 3.x and pip installed on your machine. We recommend using a
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone https://github.com/YoshieLaw/webcam_ai_item_recognition_test.git
+   cd webcam_ai_item_recognition_test
 
 2. Create a virtual environment:
  
